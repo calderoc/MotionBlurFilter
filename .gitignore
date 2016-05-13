@@ -1,0 +1,17 @@
+*.DS_Store
+*.pyc
+*.aux
+*.dvi
+*synctex*
+*.log
+*.ps
+*.blg
+*.dat
+*.bbl
+*.bib
+*.eps
+*.save
+*latexmk*
+*.last-run
+SublimeText_Package*
+*checkpoint.ipynb
